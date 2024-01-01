@@ -1,0 +1,7 @@
+[theme]
+base="dark"
+primaryColor="#fffff"
+backgroundColor="rgb(130, 165, 124)"
+secondaryBackgroundColor="#fffff"
+[server]
+port = 8888
